@@ -2,11 +2,10 @@ Creating a README for your email automation bot on GitHub is essential to provid
 
 ---
 
-# ReliableEmailerBot
+# Business Email Bot
 
-**ReliableEmailerBot** is an advanced email automation tool designed to send personalized marketing emails efficiently while managing Gmail's rate limits and retry mechanisms. It is tailored to meet the needs of businesses looking to automate their email campaigns reliably.
+This bot is an advanced email automation tool designed to send personalized marketing emails efficiently while managing Gmail's rate limits and retry mechanisms. It is tailored to meet the needs of businesses looking to automate their email campaigns reliably.
 
-![Logo](https://path-to-your-logo.com/logo.png)
 
 ## Features
 
